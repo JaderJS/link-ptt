@@ -1,0 +1,20 @@
+.btn-push-to-talk {
+    width: 400px;
+    height: 400px;
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: calc(20px + 2vmin);
+    margin: 4px 2px;
+    border-radius: 50%;
+}
+
+.btn-push-to-talk:hover {
+    scale: 1.02;
+    background-color: #04aa6dcb;
+    cursor: pointer;
+}
